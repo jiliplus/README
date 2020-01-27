@@ -41,11 +41,11 @@
 
 ### jili 交流群
 
-![jili交流QQ群](./image/qq.jpg)
+![jili交流QQ群:23530093](./image/qq.jpg)
 
 ### 微信公众号
 
-![jujili微信公众号](./image/wx.png)
+![微信公众号:jujili](./image/wx.png)
 
 ### 知乎专栏
 
