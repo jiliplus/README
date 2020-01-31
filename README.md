@@ -13,8 +13,8 @@
 <!--  -->
 </p>
 
-- [开发计划](#%e5%bc%80%e5%8f%91%e8%ae%a1%e5%88%92)
-- [模块](#%e6%a8%a1%e5%9d%97)
+- [核心框架](#%e6%a0%b8%e5%bf%83%e6%a1%86%e6%9e%b6)
+- [配套模块](#%e9%85%8d%e5%a5%97%e6%a8%a1%e5%9d%97)
 - [交流方式](#%e4%ba%a4%e6%b5%81%e6%96%b9%e5%bc%8f)
 	- [jili 交流群](#jili-%e4%ba%a4%e6%b5%81%e7%be%a4)
 	- [微信公众号](#%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7)
@@ -22,20 +22,16 @@
 - [项目名称的含义](#%e9%a1%b9%e7%9b%ae%e5%90%8d%e7%a7%b0%e7%9a%84%e5%90%ab%e4%b9%89)
 - [MIT License](#mit-license)
 
-## 开发计划
+## 核心框架
 
-- [ ] 编写回测框架
+- [jili](https://github.com/jujili/jili#jili)
 
-<!-- ## 功能 -->
+## 配套模块
 
-<!-- ### [命令](cmd) -->
-
-<!-- - [Binance](cmd/binance/README.md): 下载 Binance 的历史交易数据。 -->
-
-## 模块
-
+- [bt](https://github.com/jujili/bt#mahjong-backtesting): 回测框架
 - [bucket](https://github.com/jujili/bucket): 两级 Token Bucket 算法令牌桶。
 - [clock](https://github.com/jujili/clock): 对 `time` 和 `context` 标准库相关函数的封装与模拟。
+- [ta](https://github.com/jujili/ta#metal-technical-analysis): 技术分析库，类似于 <www.ta-lib.org>
 
 ## 交流方式
 
