@@ -31,7 +31,8 @@
 - [bt](https://github.com/jujili/bt#mahjong-backtesting): 回测框架
 - [bucket](https://github.com/jujili/bucket): 两级 Token Bucket 算法令牌桶。
 - [clock](https://github.com/jujili/clock): 对 `time` 和 `context` 标准库相关函数的封装与模拟。
-- [ta](https://github.com/jujili/ta#metal-technical-analysis): 技术分析库，类似于 ta-lib.org
+- [ex](https://github.com/jujili/ex#men_wrestling-exchanges): 交易所 API 封装
+- [ta](https://github.com/jujili/ta#metal-technical-analysis): 技术分析库，类似于 <ta-lib.org>
 
 ## 交流方式
 
